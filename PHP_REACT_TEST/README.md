@@ -3,7 +3,7 @@
 **RESUMO**
 
 - Criar uma aplicação PHP com Interface em React, para controle simples de estoque.
-- Criar um repositório Github com o código do teste. Criar um arquivo README contendo as informações sobre como efetuar a instalação do projeto.
+- Criar um repositório Github com o código do teste. Criar um arquivo README contendo as informações sobre como efetuar a instalação e execução do projeto.
 - O que será avaliado: Criatividade, Lógica e Estrutura do Projeto
 
 **REQUISITOS**
